@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Diya Mishra, a third year law student at MNLU Mumbai trying my hand at coding for the first time.
+I like making websites using html and css!
+
 <!--
 **DiyaMishra420/DiyaMishra420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
